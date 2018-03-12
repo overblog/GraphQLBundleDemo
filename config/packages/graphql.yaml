@@ -1,9 +1,11 @@
 overblog_graphql:
     definitions:
         schema:
-            query: Query
-            resolver_maps:
-                - App\Resolver\MyResolverMap
+            quickstart:
+                query: Query
+                resolver_maps:
+                    - App\Resolver\MyResolverMap
+
         mappings:
             auto_discover: false
             types:
