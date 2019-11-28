@@ -56,6 +56,9 @@
     "symfony/dotenv": {
         "version": "v4.0.3"
     },
+    "symfony/error-handler": {
+        "version": "v4.4.0"
+    },
     "symfony/event-dispatcher": {
         "version": "v4.0.3"
     },
@@ -130,6 +133,9 @@
             "version": "3.3",
             "ref": "f75ac166398e107796ca94cc57fa1edaa06ec47f"
         }
+    },
+    "symfony/var-dumper": {
+        "version": "v4.4.0"
     },
     "symfony/web-server-bundle": {
         "version": "3.3",
